@@ -1,0 +1,86 @@
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.exe
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.deps.json
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.runtimeconfig.json
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.runtimeconfig.dev.json
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.pdb
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Asio.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Core.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Midi.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.Form1.resources
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.AssemblyInfo.cs
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.CopyComplete
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.pdb
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Client 2\VoiceRecorder\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.genruntimeconfig.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.exe
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.deps.json
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.runtimeconfig.json
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.runtimeconfig.dev.json
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\VoiceRecorder.pdb
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Asio.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Core.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Midi.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.Form1.resources
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.AssemblyInfo.cs
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.csproj.CopyComplete
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.dll
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.pdb
+C:\Users\User\Desktop\Asan\Recorder\Asan_Voice-Recorder\Desktop\VoiceRecorder\obj\Debug\netcoreapp3.1\VoiceRecorder.genruntimeconfig.cache

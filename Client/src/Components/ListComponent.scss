@@ -1,0 +1,29 @@
+.tableRow{
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+    svg{
+        user-select: none;
+        margin-left: 10px;
+        &:first-child{
+            color: green;
+        }
+        &:last-child{
+            color: red;
+        }
+    }
+
+    table{
+        tr{
+            th{
+                text-align: center;
+            }
+            td{
+                text-align: center;
+                font-weight: 700;
+            }
+        }
+        
+    }
+
+}
