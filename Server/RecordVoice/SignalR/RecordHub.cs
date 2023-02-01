@@ -18,7 +18,7 @@ namespace RecordVoice.SignalR
 
         public async Task StartConnection(string ip) 
         {
-            Record record = await _context.Records.FirstAsync(r=>r.IP == ip);
+            Record record = await _context.Records.FirstOrDefaultAsync(r=>r.IP == ip);
             if(!record.ApplicationOpened)
             {
                 await Clients.Caller.SendAsync("appError", $"Application must be opened in the computer with ip: {ip}");
@@ -33,8 +33,22 @@ namespace RecordVoice.SignalR
 
         public async Task StartApplication(string ip) 
         {
-            Record record = await _context.Records.FirstAsync(r=>r.IP == ip);
-            record.ApplicationOpened = true;
+            Record record = await _context.Records.FirstOrDefaultAsync(r=>r.IP == ip);
+            if(record == null) 
+            {
+                Record newRecord = new Record 
+                {
+                    IP = ip,
+                    ApplicationOpened = true,
+                    Connected = false,
+                    Recording = false
+                };
+                await _context.Records.AddAsync(newRecord);
+            }
+            else
+            {
+                record.ApplicationOpened = true;
+            }
             await _context.SaveChangesAsync();
             await Clients.All.SendAsync("getChanges", _context.Records.ToListAsync());
 
@@ -43,7 +57,7 @@ namespace RecordVoice.SignalR
 
         public async Task StopApplication(string ip) 
         {
-            Record record = await _context.Records.FirstAsync(r => r.IP == ip);
+            Record record = await _context.Records.FirstOrDefaultAsync(r => r.IP == ip);
             record.Connected = false;
             record.Recording = false;
             record.ApplicationOpened = false;
@@ -54,7 +68,7 @@ namespace RecordVoice.SignalR
 
         public async Task StartRecord(string ip) 
         {
-            Record record = await _context.Records.FirstAsync(r => r.IP == ip);
+            Record record = await _context.Records.FirstOrDefaultAsync(r => r.IP == ip);
             if(record.Connected == false) 
             {
                 await Clients.Caller.SendAsync("getError", "First you must be connected to device");
@@ -70,7 +84,8 @@ namespace RecordVoice.SignalR
 
         public async Task StopConnection(string ip) 
         {
-            Record record = await _context.Records.FirstAsync(r=>r.IP == ip);
+            Record record = await _context.Records.FirstOrDefaultAsync
+            (r=>r.IP == ip);
             if(record.Recording == true) 
             {
                 record.Recording = false;
@@ -85,7 +100,7 @@ namespace RecordVoice.SignalR
 
         public async Task StopRecord(string ip) 
         {
-            Record record = await _context.Records.FirstAsync(r=>r.IP == ip);
+            Record record = await _context.Records.FirstOrDefaultAsync(r=>r.IP == ip);
 
             record.Recording = false;
             await _context.SaveChangesAsync();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Asan\\Recorder\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj": {}
+    "C:\\Users\\User\\Desktop\\Asan\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Asan\\Recorder\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj": {
+    "C:\\Users\\User\\Desktop\\Asan\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Asan\\Recorder\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Asan\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj",
         "projectName": "VoiceRecorder",
-        "projectPath": "C:\\Users\\User\\Desktop\\Asan\\Recorder\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Asan\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\VoiceRecorder.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Asan\\Recorder\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Asan\\Asan_Voice-Recorder\\Desktop\\VoiceRecorder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
